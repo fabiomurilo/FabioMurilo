@@ -1,0 +1,205 @@
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\obj\Debug\LuizDubena.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\ApplicationInsights.config
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\csc.exe
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\LuizDubena.dll.config
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\LuizDubena.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\LuizDubena.pdb
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Razor.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Webpages.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Razor.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Webpages.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\obj\Debug\LuizDubena.dll
+C:\Users\user\Documents\Visual Studio 2015\LuizDubena\LuizDubena\LuizDubena\obj\Debug\LuizDubena.pdb
+E:\LuizDubena\LuizDubena\bin\ApplicationInsights.config
+E:\LuizDubena\LuizDubena\bin\roslyn\csc.exe
+E:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LuizDubena\LuizDubena\bin\roslyn\System.Collections.Immutable.dll
+E:\LuizDubena\LuizDubena\bin\roslyn\System.Reflection.Metadata.dll
+E:\LuizDubena\LuizDubena\bin\roslyn\vbc.exe
+E:\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe
+E:\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe.config
+E:\LuizDubena\LuizDubena\bin\LuizDubena.dll.config
+E:\LuizDubena\LuizDubena\bin\LuizDubena.dll
+E:\LuizDubena\LuizDubena\bin\LuizDubena.pdb
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.Web.Infrastructure.dll
+E:\LuizDubena\LuizDubena\bin\System.Web.Helpers.dll
+E:\LuizDubena\LuizDubena\bin\System.Web.Mvc.dll
+E:\LuizDubena\LuizDubena\bin\System.Web.Razor.dll
+E:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.dll
+E:\LuizDubena\LuizDubena\bin\System.Web.Webpages.dll
+E:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.dll
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.xml
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.xml
+E:\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.xml
+E:\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.xml
+E:\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LuizDubena\LuizDubena\bin\System.Web.Razor.xml
+E:\LuizDubena\LuizDubena\bin\System.Web.Webpages.xml
+E:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.xml
+E:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.xml
+E:\LuizDubena\LuizDubena\bin\System.Web.Helpers.xml
+E:\LuizDubena\LuizDubena\bin\System.Web.Mvc.xml
+E:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.csprojResolveAssemblyReference.cache
+E:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.dll
+E:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.pdb
+E:\LuizDubena\LuizDubena\bin\EntityFramework.dll
+E:\LuizDubena\LuizDubena\bin\EntityFramework.SqlServer.dll
+E:\LuizDubena\LuizDubena\bin\EntityFramework.xml
+E:\LuizDubena\LuizDubena\bin\EntityFramework.SqlServer.xml
+F:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.csprojResolveAssemblyReference.cache
+F:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.dll
+F:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.pdb
+F:\LuizDubena\LuizDubena\bin\ApplicationInsights.config
+F:\LuizDubena\LuizDubena\bin\roslyn\csc.exe
+F:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\LuizDubena\LuizDubena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\LuizDubena\LuizDubena\bin\roslyn\System.Collections.Immutable.dll
+F:\LuizDubena\LuizDubena\bin\roslyn\System.Reflection.Metadata.dll
+F:\LuizDubena\LuizDubena\bin\roslyn\vbc.exe
+F:\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe
+F:\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe.config
+F:\LuizDubena\LuizDubena\bin\LuizDubena.dll.config
+F:\LuizDubena\LuizDubena\bin\LuizDubena.dll
+F:\LuizDubena\LuizDubena\bin\LuizDubena.pdb
+F:\LuizDubena\LuizDubena\bin\EntityFramework.dll
+F:\LuizDubena\LuizDubena\bin\EntityFramework.SqlServer.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.Agent.Intercept.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\LuizDubena\LuizDubena\bin\Microsoft.Web.Infrastructure.dll
+F:\LuizDubena\LuizDubena\bin\System.Web.Helpers.dll
+F:\LuizDubena\LuizDubena\bin\System.Web.Mvc.dll
+F:\LuizDubena\LuizDubena\bin\System.Web.Razor.dll
+F:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.dll
+F:\LuizDubena\LuizDubena\bin\System.Web.Webpages.dll
+F:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.dll
+F:\LuizDubena\LuizDubena\bin\EntityFramework.xml
+F:\LuizDubena\LuizDubena\bin\EntityFramework.SqlServer.xml
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.xml
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.xml
+F:\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.xml
+F:\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.xml
+F:\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\LuizDubena\LuizDubena\bin\System.Web.Razor.xml
+F:\LuizDubena\LuizDubena\bin\System.Web.Webpages.xml
+F:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.xml
+F:\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.xml
+F:\LuizDubena\LuizDubena\bin\System.Web.Helpers.xml
+F:\LuizDubena\LuizDubena\bin\System.Web.Mvc.xml
+F:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.Migrations.InitialCreate.resources
+F:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.csproj.GenerateResource.Cache
+F:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.Migrations.NewDataBase.resources
+E:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.Migrations.InitialCreate.resources
+E:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.Migrations.NewDataBase.resources
+E:\LuizDubena\LuizDubena\obj\Debug\LuizDubena.csproj.GenerateResource.Cache
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\ApplicationInsights.config
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\csc.exe
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\vbc.exe
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\LuizDubena.dll.config
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\LuizDubena.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\LuizDubena.pdb
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\EntityFramework.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\EntityFramework.SqlServer.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Helpers.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Mvc.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Razor.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Webpages.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\EntityFramework.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\EntityFramework.SqlServer.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.Web.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Razor.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Webpages.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Webpages.Razor.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Helpers.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\bin\System.Web.Mvc.xml
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\obj\Debug\LuizDubena.csprojResolveAssemblyReference.cache
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\obj\Debug\LuizDubena.Migrations.InitialCreate.resources
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\obj\Debug\LuizDubena.Migrations.NewDataBase.resources
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\obj\Debug\LuizDubena.csproj.GenerateResource.Cache
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\obj\Debug\LuizDubena.dll
+C:\Users\Fabio Murilo\Desktop\LuizDubena\LuizDubena\obj\Debug\LuizDubena.pdb
